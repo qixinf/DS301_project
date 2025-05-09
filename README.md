@@ -1,4 +1,5 @@
-# DS301_project_Investigating Multimodal Fusion for Emotion Recognition Using Deep Learning
+# DS301_project
+# Investigating Multimodal Fusion for Emotion Recognition Using Deep Learning
 
 ## Introduction:
 This project aims to develop a robust multimodal emotion recognition system by combining text (BERT) and audio (MFCC) features.
