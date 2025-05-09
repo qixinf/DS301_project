@@ -5,7 +5,7 @@ This repo contains code and metadata for the DS301 project.
 ## 📁 Data files (hosted externally)
 
 The project’s large data files are hosted externally on Google Drive:
-[Google Drive folder link](https://drive.google.com/drive/folders/1nR9BcXhEqyZS_liCGRG2pRKe0uHG2MtZ?usp=sharing)
+[Google Drive folder link](https://drive.google.com/drive/folders/1nR9BcXhEqyZS_IiCGrG2pRKe0uHG2MtZ?usp=drive_link)
 
 👉 **You do NOT need to manually download the files.**  
 ✅ All necessary data downloading and file processing is handled automatically by running `code1.ipynb` and `code2.ipynb` in order.
